@@ -14,8 +14,6 @@ src="https://komarev.com/ghpvc/?username=sakshitiwari22141&label=Profile%20views
 
 - 💬 Ask me about **Python,R,SQL,AI,ML,DL,Big Data Tools,Data Annotation**
 
-- 📫 How to reach me **sakshitiwari22141@gmailcom**
-
 - ⚡ Fun fact **I can spend hours cleaning data and still call it fun😅**
 
 <h3 align="left">Connect with me:</h3>
