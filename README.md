@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sakshi Tiwari</h1>
-<h3 align="center">“Exploring AI, Machine Learning & Deep Learning with Python — transforming ideas into intelligent solutions.”</h3>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img 
 src="https://komarev.com/ghpvc/?username=sakshitiwari22141&label=Profile%20views&color=0e75b6&style=flat" alt="sakshitiwari22141" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m currently working on project **Voicet**
+- 🌱 I’m a **Data Annotator** with experience in creating high quality labeled datasets for AI and machine learning projects.
 
 - 📝 I regularly create designs on [Canva](Canva)
 
