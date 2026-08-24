@@ -10,11 +10,6 @@ src="https://komarev.com/ghpvc/?username=sakshitiwari22141&label=Profile%20views
 
 - ⚡ Fun fact **I can spend hours cleaning data and still call it fun😅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sakshi-t-6a6855378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshi-t-6a6855378" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages:</h3>
 <p align="left"> <img <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
