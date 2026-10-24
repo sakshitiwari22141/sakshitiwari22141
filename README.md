@@ -2,8 +2,6 @@
 
 # Sakshi Tiwari
 
-**Data Analyst &nbsp; &nbsp;**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-tiwari-6a6855378)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](sakshitiwari2241@gmail.com)
 
