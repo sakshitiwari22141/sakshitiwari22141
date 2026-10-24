@@ -14,8 +14,6 @@ src="https://komarev.com/ghpvc/?username=sakshitiwari22141&label=Profile%20views
 
 - 🚀 I'm building projects to strengthen my analytical and problem-solving skills.
 
-- 📝 I regularly create designs on [Canva](Canva)
-
 - ⚡ Fun fact **I can spend hours cleaning data and still call it fun😅**
 
 <h3 align="left">Languages:</h3>
