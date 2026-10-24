@@ -4,7 +4,15 @@
 <p align="left"> <img 
 src="https://komarev.com/ghpvc/?username=sakshitiwari22141&label=Profile%20views&color=0e75b6&style=flat" alt="sakshitiwari22141" /> </p>
 
-- 🌱 I’m a **Data Annotator** with experience in creating high quality labeled datasets for AI and machine learning projects.
+- 🌱 I’m an aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
+  
+- I work with **Python, SQL, EXCEL and Power BI** for data analysis and visualization.
+  
+- I'm learning data cleaning, exploratory data analysis (EDA), dashboard creation, and reporting.
+
+- I have experience in data annotation and data quality, which helps me understand the importance of accurate data.
+
+- I'm building projects to strengthen my analytical and problem-solving skills.
 
 - 📝 I regularly create designs on [Canva](Canva)
 
